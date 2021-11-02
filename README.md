@@ -1,5 +1,5 @@
 # Oie, Eu sou Erik Benito 👨‍💻
-### Amante de Tecnologia, e uma aspirante a Dev !!!
+### Amante de Tecnologia, e um aspirante a Dev !!!
 
 <div align="center">
   <a href="https://github.com/Erik-Benito">
