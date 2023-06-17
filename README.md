@@ -10,7 +10,7 @@
 
 ## Um pouco sobre mim :
 <div> 
- Eu sou de São Paulo, tenho 18 anos (21/10/2003), e sempre amei a tecnologia, desde de meus 15 anos venho aprendendo a programar, e para o meu primeiro "Hello World!", usei a linguagem C#, porém me aprofundei em Javascript, na qual parti para o framework REACT, e nele venho-me aprimorando. Agora busco minha primeira oportunidade como DEV, para contribuir com a empresa e também desenvolver meu conhecimento com outros DEVS.
+ Eu sou de São Paulo, e sempre amei a tecnologia, desde de meus 15 anos venho aprendendo a programar, e para o meu primeiro "Hello World!", usei a linguagem C#, porém me aprofundei em Javascript, na qual parti para o framework REACT, e nele venho-me aprimorando. Agora busco minha primeira oportunidade como DEV, para contribuir com a empresa e também desenvolver meu conhecimento com outros DEVS.
 </div>
 
 
