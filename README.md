@@ -11,7 +11,7 @@
 ## Um pouco sobre mim :
 <div> 
 Sou de São Paulo, tenho 21 anos (21/10/2003) e desde os 15 anos sou apaixonado por tecnologia. Meu primeiro contato com a programação foi em C#, mas foi com JavaScript que realmente mergulhei no mundo do desenvolvimento. Aprofundei meus conhecimentos em React no front-end e em Node.js no back-end, com foco em criar APIs REST e GraphQL eficientes.
-Atualmente, trabalho como Engenheiro de Software Júnior na Ideal CTVM, onde tive a oportunidade de crescer desde o estágio. Também possuo certificações da AWS, como Cloud Practitioner e Cloud Quest: Solutions Architect, que reforçam minha base em arquitetura de sistemas e serviços em nuvem.
+Atualmente, trabalho como Engenheiro de Software Júnior, onde tive a oportunidade de crescer desde o estágio. Também possuo certificações da AWS, como Cloud Practitioner e Cloud Quest: Solutions Architect, que reforçam minha base em arquitetura de sistemas e serviços em nuvem.
 Tenho familiaridade com TypeScript, Golang, e me interesso por boas práticas, performance e escalabilidade.
 Busco evoluir constantemente, colaborar com outros devs e entregar soluções que gerem valor real para as pessoas e empresas.
 </div>
